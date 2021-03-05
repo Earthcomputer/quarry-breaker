@@ -1,0 +1,5 @@
+{
+  "name": "Quarry Breaker",
+  "mcversion": "1.12.2",
+  "mixinConfigs": ["mixins.quarry-breaker.json"]
+}
